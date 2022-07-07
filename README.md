@@ -1,4 +1,7 @@
 # INR-inspector
+
+![Screenshot from INR inspector](/figures/inr_inspector_screenshot.png)
+
 Spins up a webpage that can be used to explore the weights and activations of an MLP trained to fit an image.
 
 To start, run
